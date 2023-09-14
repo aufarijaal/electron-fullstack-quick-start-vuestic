@@ -1,3 +1,6 @@
+# Discontinued
+## This repo has big changes going on, and I've decided to create a new repo for this and publish the changes there. If you're interested, stay tuned 🙂
+
 # Electron Fullstack Quick Start (Vuestic as UI Libary)
 
 <img src="public/banner.png"/>
