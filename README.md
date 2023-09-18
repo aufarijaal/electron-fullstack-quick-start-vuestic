@@ -1,5 +1,4 @@
-# Discontinued
-## This repo has big changes going on, and I've decided to create a new repo for this and publish the changes there. If you're interested, stay tuned 🙂
+## This repo is discontinued and moved to [here](https://github.com/aufarijaal/electron-quick-start-vue/tree/vuestic).
 
 # Electron Fullstack Quick Start (Vuestic as UI Libary)
 
